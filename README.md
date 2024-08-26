@@ -35,7 +35,7 @@
 
 ### 一、安装httpsok
 
-登陆控制台 👉 👉 👉 **[获取token](https://httpsok.com/?p=4c9n)**
+登陆控制台 👉 👉 👉 **[获取token](https://httpsok.com/?p=4r5b)**
 
 ```bash
 curl -s https://get.httpsok.com | bash -s 'your token'
@@ -51,7 +51,7 @@ curl -s https://get.httpsok.com | bash -s 'your token'
 
 ### 三、完成
 
-没错，已经结束，SSL证书自动续签就这么简单。快登录 **[控制台](https://httpsok.com/?p=4c9n)** 查看自己的证书吧。
+没错，已经结束，SSL证书自动续签就这么简单。快登录 **[控制台](https://httpsok.com/?p=4r5b)** 查看自己的证书吧。
 
 
 ![httsok控制台-证书管理](https://cdn.httpsok.com/doc/assets/guide/image-20240528012201352.png)
